@@ -1,0 +1,4 @@
+!pip install openai
+!pip install gpt3_tokenizer
+!pip install python-dotenv
+
